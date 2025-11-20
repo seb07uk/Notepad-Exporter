@@ -1,5 +1,5 @@
 <div style="text-align: center;">
- <p align="center"> <img alt="picture" src="xxxxx" />
+ <p align="center"> <img alt="picture" src="https://github.com/seb07uk/Notepad-Exporter/blob/main/screenshot.PNG?raw=true" />
 </div>
 <br>
 
@@ -85,6 +85,6 @@ Notepad Exporter to narzędzie stworzone z myślą o wygodzie, elastyczności i 
 Ten projekt jest licencjonowany na podstawie licencji MIT. Możesz go swobodnie używać, modyfikować i rozpowszechniać, pod warunkiem wskazania autora.
 
 ---
-<p style="text-align: center;">Kod został pierwotnie napisany i użyty do testowania kodu głównego.</p>
-<p style="text-align: center;">2025</p>
+<p align="center">Kod został pierwotnie napisany i użyty do testowania kodu głównego.</p>
+<p align="center">2025</p>
 
